@@ -1,0 +1,20 @@
+I would ask the following question for the Application for a Dog License
+
+1) What are the parameters we will be capturing for the licensee?
+2) What details do we need to capture for the Dog details?
+3) Does the applicaion will be different for each different state in the US?
+4) What kind of scalability we will be expecting on this web page?
+5) Do we need to segregate the DB based on each state?
+6) If there is any private information do we need to hash it in to SH or MD5 kind of encryptions?
+7) Do we have any restrictions for any different types of dog as such?
+8) Do we expect any specific documentation in the form as attachement?
+9) What format are we expecting to store the documentation?
+10)Where do we need to store the private documentation of the users in internally servers or is it ok to consider any cloud providers?
+11) Do we need to send any email notifications for the users for any future communications?
+12) Do we need to have any email campaign abilities in the web page for communication?
+13) Is there any expiry of this information and we need to remind the user to update the form with any other detail?
+14) Do we have mobile messaging facility in the system?
+15) Does the user has to process any payment?
+16) If we accept any payments on the page, what would be the payment gateway we shall use?
+17) What we need to use any specific type of Dog images on the page?
+18) Do we have any user interface sample or any idea about what we are expecting to have the look and feel of this page?
